@@ -1,6 +1,6 @@
 [build]
   publish = "site"
-  command = ""
+  command = "python3 build.py"
 
 [[headers]]
   for = "/assets/*"
